@@ -1,0 +1,293 @@
+{
+  "basics": {
+    "name": "Jordan Arnesen",
+    "label": "Programmer",
+    "picture": "",
+    "email": "jordan@byjor.com",
+    "phone": "(831) 277-1019",
+    "website": "http://byjor.com",
+    "summary": "Dabbler in all things creative. My passions lie at the intersections of technology, design, gaming, and education.",
+    "location": {
+      "address": "",
+      "postalCode": "CA 94303",
+      "city": "Palo Alto",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "extrajordanary",
+        "url": "https://github.com/extrajordanary"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jordanxarnesen",
+        "url": "https://www.linkedin.com/in/jordanxarnesen"
+      },
+            {
+        "network": "Twitter",
+        "username": "madebyjor",
+        "url": "https://twitter.com/madebyjor"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "JTG Inc.",
+      "position": "Arabic Language Analyst",
+      "location": "Augusta, Georgia",
+      "website": "http://www.jtg-inc.com/",
+      "startDate": "2009-02-01",
+      "endDate": "2010-03-01",
+      "summary": "Specializes in intelligence, translation, and analysis for government and defense companies.",
+      "highlights": [
+        "Sorted and prioritized between 500 and 1000 actionable items daily",
+        "Generated and documented time-sensitive Iraqi-to-English translations and intelligence analyses",
+        "Sustained effective communication of task division between teams working 24/7 missions"
+      ]
+    },
+    {
+      "company": "GameStop",
+      "position": "Senior Game Advisor (Key Holder)",
+	  "location": "Augusta, Georgia",
+      "website": "http://www.gamestop.com/",
+      "startDate": "2008-10-01",
+      "endDate": "2009-04-01",
+      "summary": "Industry leader in video game and consumer electronics retail.",
+      "highlights": [
+        "Served as acting manager and efficiently conducted store opening and closing duties",
+        "Managed cash and merchandise assets valuing up to $250k"
+      ]
+    },
+    {
+      "company": "U.S. Navy",
+      "position": "Cryptological Technician Interpretive (Arabic Translator and Intelligence Analyst)",
+      "location": "Augusta, Georgia",
+      "website": "http://www.jtg-inc.com/",
+      "startDate": "2002-08-20",
+      "endDate": "2008-09-19",
+      "summary": "",
+      "highlights": [
+        "Optimized task delegation for shifts of over 20 personnel while simultaneously coordinating with and providing valuable intelligence to units in Iraq and Afghanistan",
+        "Monitored the function of over $40 million in assets and adaptively troubleshot issues to maintain high levels of mission readiness",
+        "Identified weaknesses in existing job qualification standards and developed new methodology for training and assessment, improving operators’ linguistic and technical proficiency and accelerating qualification of new trainees"
+      ]
+    }
+    // Caddie Inc.
+    // Napa Auto Parts
+  ],
+  "volunteer": [
+    // {
+    //   "organization": "Rainbow Community Center of Contra Costa County",
+    //   "position": "Graphic Artist/Photographer/Miscellaneous",
+    //   "location": "Concord, California",
+    //   "website": "http://rainbowcc.org/",
+    //   "startDate": "2012-01-01",
+    //   "endDate": "2013-01-01",
+    //   "summary": "Global movement of free coding clubs for young people.",
+    //   "highlights": [
+    //     "Awarded 'Teacher of the Month'"
+    //   ]
+    // }
+  ],
+  "education": [
+    {
+      "institution": "MakeSchool Gap Year Program",
+      "area": "Computer Science",
+      "minor": "",
+      "location": "San Francisco, California",
+      "studyType": "",
+      "startDate": "2014-09-16",
+      "endDate": "2015-06-01",
+      "gpa": "",
+      // "courses": [
+      //   "Computational Models of Cognition",
+      //   "Quantitative Methods in Linguistics",
+      //   "Tangible User Interface",
+      //   "Multimedia Narrative",
+      //   "Technologies for Creativity and Learning"
+      // ],
+      // "highlights": [
+      //   "Emphases in Linguistics, Design, Programming",
+      //   "Member of Phi Beta Kappa"
+      // ]
+    },
+    {
+      "institution": "MakeSchool Summer Academy (formerly MakeGamesWithUs)",
+      "area": "iOS Mobile Game Development",
+      "minor": "",
+      "location": "San Francisco, California",
+      "studyType": "",
+      "startDate": "2014-06-01",
+      "endDate": "2014-08-01",
+      "gpa": "",
+      "courses": [
+        "Game Design and Prototyping",
+        "Product Management",
+        "Git and Version Control",
+        "Monetization and Marketing",
+        "User Testing and Analytics"
+      ],
+      "highlights": [
+        "Powermore - an arcade style mobile game, available on the Apple App Store",
+        "Designed and created all art and music assets for my game"
+      ]
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "area": "Cognitive Science",
+      "minor": "",
+      "location": "Berkeley, California",
+      "studyType": "Bachelor",
+      "startDate": "2010-08-01",
+      "endDate": "2014-06-01",
+      "gpa": "3.765",
+      "courses": [
+        "Computational Models of Cognition",
+        "Quantitative Methods in Linguistics",
+        "Tangible User Interface",
+        "Multimedia Narrative",
+        "Technologies for Creativity and Learning"
+      ],
+      "highlights": [
+        "Emphases in Linguistics, Design, Programming",
+        "Member of Phi Beta Kappa"
+      ]
+    },
+    {
+      "institution": "Defense Language Institute Foreign Language Center",
+      "area": "Modern Standard Arabic",
+      "minor": "",
+      "location": "Monterey, California",
+      "studyType": "",
+      "startDate": "2002-10-01",
+      "endDate": "2004-12-01",
+      "gpa": "3.8",
+      "courses": [
+        "Arabic Basic",
+        "Arabic Intermediate"
+      ],
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "People's Choice Award",
+      "date": "2014-05-01",
+      "awarder": "iOS Game Development Class Demo Day",
+      "summary": "For the iOS version of my Echolocation Experience game."
+    },
+    {
+      "title": "Judge's Favorite",
+      "date": "2014-05-01",
+      "awarder": "IDEATE Innovation Showcase",
+      "summary": "For the Processing/Kinect version of my Echolocation Experience game."
+    }
+  ],
+  // "publications": [
+  //   {
+  //     "name": "Video compression for 3d media",
+  //     "publisher": "Hooli",
+  //     "releaseDate": "2014-10-01",
+  //     "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+  //     "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+  //   }
+  // ],
+  "skills": [ // skilled, proficient, familiar
+    {
+      "name": "iOS Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Xcode",
+        "Objective-C",
+        "Storyboard",
+        "Spritebuilder",
+        "Cocos2D",
+        "Cocoapods",
+        "Minimum Viable Product"
+      ]
+    },
+    {
+      "name": "UI/UX",
+      "level": "Intermediate",
+      "keywords": [
+        "Storyboarding",
+        "Rapid Prototyping",
+        "User Testing",
+        "User Profiles"
+      ]
+    },
+    {
+      "name": "Design & Creativity",
+      "level": "Intermediate",
+      "keywords": [
+        "Photoshop",
+        "Illustrator",
+        "iMovie",
+        "Audacity",
+        "Photography",
+        "Creative Writing"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Beginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Processing (Java)",
+        "Sublime"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Beginner",
+      "keywords": [
+        "MongoDB",
+        "Node",
+        "Heroku",
+        "Amazon Web Services (S3/Cognito)"
+      ]
+    },
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Intermediate (rusty)"
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate (rusty)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sportsing",
+      "keywords": [
+        "Rock Climbing",
+        "Cycling (ALC 2013)"
+      ]
+    },
+    {
+      "name": "Artsing",
+      "keywords": [
+        "Improv Comedy",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Stephen Benjamin",
+      "reference": "I worked with Jordan for several years in the Navy, including in the same office for a time. Jordan learns quickly, is kind, treats people well, and is very dedicated to accomplishing whatever tasks are thrown at him in an enthusiastic way."
+    }
+  ]
+}
